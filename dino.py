@@ -5,6 +5,7 @@ from sys import exit
 
 diretorio_principal = os.path.dirname(__file__)
 diretorio_imagens = os.path.join(diretorio_principal, 'imagens')
+diretorio_sons = os.path.join(diretorio_principal, 'sons')
 
 LARGURA = 640
 ALTURA = 480
